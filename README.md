@@ -25,42 +25,47 @@ Cameron Rho
 
 
 Madeline Spawn
+
 -User interface
 -Any help needed for rhythm or pitch matching code
 
 -------------------------------------------------------------------------
 Project Features
+
 -Rhythm Matching Activity
- --Play a rhythm
- --Record input rhythm
- --Compare input with original rhythm and output a score
+    --Play a rhythm
+    --Record input rhythm
+    --Compare input with original rhythm and output a score
 -Pitch Matching Activity
- --Play a note
- --Record input note
- --Compare input with original note and output a score
+    --Play a note
+    --Record input note
+    --Compare input with original note and output a score
 -User Interface
- --Aesthetically pleasing design
- --Intuitive controls accessible to young students
- --Site Navigation
+    --Aesthetically pleasing design
+    --Intuitive controls accessible to young students
+    --Site Navigation
 
 Additional Features
+
 -User Accounts
- --Database to store account information
- --Games store scores and date information
- --Graphics to visualize progress over time
+    --Database to store account information
+    --Games store scores and date information
+    --Graphics to visualize progress over time
 -Combination Game
- --Play a sequence of notes
- --Record input sequence of notes
- --Compare input with original sequence and output a score
+    --Play a sequence of notes
+    --Record input sequence of notes
+    --Compare input with original sequence and output a score
 -Free Play Activity
- --User inputs a sequence of notes
- --Record the input sequence
- --Play back the input sequence
+    --User inputs a sequence of notes
+    --Record the input sequence
+    --Play back the input sequence
 
 -------------------------------------------------------------------------
 Progress Goals
+
 -Mid-Term Goal
 By the mid-term milestone we hope to have the activities coded and functioning separately from one another.
+
 -End of Term Goal
 By the end of the term we hope to have the full python application built and looking good with a GUI implemented. We will also try to complete as many additional features as possible, time permitting.
 
